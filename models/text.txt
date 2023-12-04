@@ -1,0 +1,7 @@
+Models mein ham kya karte h -
+
+pehle ham apna database mongoose require karte h.
+uske baad jo bhi banana h uska schema banate h.
+fir us schema ka model banate h.
+then us schema ka model banate h.
+then use export kar dete h jisse jaha bhi use karna ho vaha require kar lenge.

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <h1>Login page</h1>
+     <form action="/login" method="post"><!-- post coz db ke saath kaam ham chahte after button login hit we need to change in db-->
+        <div>
+            <label for="naam">Username</label>
+            <input type="text" name="username" id="naam">
+            
+        </div>
+        <div>
+            <label for="pass">Password</label>
+            <input type="text" name="password" id="pass">
+        </div>
+        <button type="submit">Login</button>
+
+    </form>
+    
+</body>
+</html>
